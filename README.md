@@ -125,6 +125,7 @@ This is the shorthand for `flex-grow`, `flex-shrink` and `flex-basis` combined. 
 .item {
   flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]
 }
+```
 
 ###align-self
 This allows the default alignment (or the one specified by `align-items`) to be overridden for individual flex items.
