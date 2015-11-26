@@ -1,0 +1,29 @@
+nav {
+  font-family: roboto;
+  background-color: #eee;
+  margin: 0px auto;
+  align-items: stretch;
+  border-radius: 10px;
+  padding: 10px 10px 10px 10px;
+  text-align: center;
+  font-size: 2em;
+  border: 0px solid black;
+}
+
+#logoNav {
+  font-size: 2em;
+  font-weight: bold;
+}
+
+@media screen and (min-wit: 700px) {
+  nav {
+    /*Codegoesher*/
+  }
+  a {
+    /*Code goes hre*/
+  }
+}
+
+#logoav {
+  /*Code goes here*/
+}
