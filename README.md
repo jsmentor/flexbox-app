@@ -138,3 +138,4 @@ Please see the `align-items` explanation to understand the available values.
   align-self: auto | flex-start | flex-end | center | baseline | stretch;
 }
 ```
+Will & Mehran
